@@ -1,2 +1,3 @@
-SELECT DISTINCT nom
+SELECT nom
+
 FROM usager;
