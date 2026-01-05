@@ -1,0 +1,6 @@
+Exercice 3
+
+Q1- renvoie toutes les informations sur les livres dont le titre contient le mot Robot.
+Q2- renvoie tous les usagers qui habitent à Nantua.
+Q3- renvoie tous les usagers qui avaient rendu au moins un livre avant le 2 Avril 2020 (sans doublons)
+Q4- renvoie tous les livres publiés aprés 1990.
