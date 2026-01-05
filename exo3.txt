@@ -1,0 +1,13 @@
+1 • Tous les titres de livres contenant le terme Robot
+
+2 • Noms et prénoms d'usagers provenant de la municipalité prénommée Nantua
+
+3 • Noms et prénoms d'usagers ayant un livre à retourner avant le 2 avril 2020
+
+4 • Titres des livres parus après 1990
+
+5 •
+
+SELECT titre
+FROM livre
+WHERE annee > "1990"
