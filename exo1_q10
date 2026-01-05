@@ -1,0 +1,3 @@
+SELECT titre,annee
+FROM livre
+WHERE annee % 400=0 OR (annee % 4=0 AND annee % 100 != 0)
